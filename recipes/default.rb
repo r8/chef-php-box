@@ -15,10 +15,8 @@ template "#{node['php']['ext_conf_dir']}/phar.ini" do
   group "root"
   mode "0644"
   action :create
-  notifies :restart, resources("service[apache2]"), :delayed
 end
 
-#install/upgrade curl
 package "curl" do
   action :upgrade
 end
