@@ -1,6 +1,25 @@
 chef-php-box
 ============
 
+This cookbook provides an easy way to install Box CLI — tool that simplifies the Phar building process.
+
+More info about Box itself can be found at http://box-project.org
+
+Requirements
+============
+
+## Cookbooks:
+
+* php
+
+## Platforms:
+
+* Ubuntu
+* Debian
+* RHEL
+* CentOS
+* Fedora
+
 License
 -------
 
