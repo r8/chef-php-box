@@ -3,7 +3,7 @@ chef-php-box
 
 This cookbook provides an easy way to install Box CLI — tool that simplifies the Phar building process.
 
-More info about Box itself can be found at http://box-project.org
+More info about Box itself can be found at [Box homepage](http://box-project.org).
 
 Requirements
 ============
