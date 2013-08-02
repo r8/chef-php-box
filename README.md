@@ -32,4 +32,4 @@ License
 Copyright (c) 2013 Sergey Storchay, http://r8.com.ua
 
 Licensed under MIT:
-https://raw.github.com/r8/chef-php-box/master/LICENSE.txt
+http://raw.github.com/r8/chef-php-box/master/LICENSE.txt
